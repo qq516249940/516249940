@@ -1,4 +1,4 @@
-<h2> Hi, I'm sjkcdpc!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm chunk!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>
   <em>Software Enginner at Beijing </a>
@@ -7,7 +7,7 @@
   </em>
 </p>
 
-[![GitHub sjkcdpc](https://img.shields.io/github/followers/sjkcdpc?label=follow&style=social)](https://github.com/sjkcdpc)
+[![GitHub qq516249940](https://img.shields.io/github/followers/qq516249940?label=follow&style=social)](https://github.com/qq516249940)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -16,7 +16,7 @@
 const Shaddock = {
   pronouns: "he",
   code: [Python, Golang, Shell],
-  tools: [Kubernetes, Docker],
+  tools: [Kubernetes, Docker,cisco],
   architecture: ["microservices"],
   communities: {},
   challenge: "No Code"
@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=sjkcdpc&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"]&line_height=40&count_private=true)
-![Used top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjkcdpc&theme=dracula)
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=516249940&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"]&line_height=40&count_private=true)
+![Used top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=516249940&theme=dracula)
 
 ### My top 10 technologies-
 
@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png) |
 ### Visitors
-![Visitor Count](https://profile-counter.glitch.me/sjkcdpc/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/516249940/count.svg)
